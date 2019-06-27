@@ -1,3 +1,3 @@
 # kaggle
 
-A collection of kaggle challenges I attempted
+Just a collection of kaggle challenges I attempted
